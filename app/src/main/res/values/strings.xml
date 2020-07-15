@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+        <string-array name="SelectUserType">
+            <item>Type-A</item>
+            <item>Type-B</item>
+            <item>Type-C</item>
+        </string-array>
+
+
+</resources>
